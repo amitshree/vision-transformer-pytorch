@@ -4,3 +4,4 @@ torchvision
 numpy<2
 transformers
 matplotlib
+torchinfo
